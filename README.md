@@ -15,7 +15,7 @@ sort , Heap sort to get proper visuals.
 ## How to Run:
 You can run the cpp file available here in a code editor like Microsoft Visual studio one you download the project.
 Though you need special library called SDL for the code to function properly.
-I recommend you follow Lazy Foo' Productions' tutorial to setup SDL2 Library. PLEASE NOTE THAT the tutorial follows 
+I recommend you follow  Lazy Foo' Productions' tutorial to setup SDL2 Library. PLEASE NOTE THAT the tutorial follows 
 to setup SDL2 32-bit library but to run Sorting Visualizer, you have to use the 64-bit library. Just use x86_64-w64-mingw32 
 folder instead of i686-w64-mingw32 to setup the SDL2 files. After setting up the  SDL2 library, just include the Sorting Visualizer.cpp 
 file from the repository in your project with the build options as mentioned in the tutorial and build and run the project.
@@ -32,3 +32,7 @@ Available keys to control the input are :
 6. Press "5" to start Quick Sort Algorithm.
 7. Press "6" to start Heap Sort Algorithm.
 8. Press "q" to exit out of Visualizer.
+
+
+## Link to Download SDL Library.
+(http://lazyfoo.net/tutorials/SDL/01_hello_SDL/index.php) 
