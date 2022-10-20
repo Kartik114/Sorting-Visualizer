@@ -7,8 +7,8 @@ but a few dominate as they are optimal then others and faster in implementation.
 looking at some of these popularly used sorting algorithms and see visually their working. So the sorting algorithms picked by me are 
 Selection sort , Insertion sort , Bubble sort , Heap sort , Merge sort and Quick sort. We have fixed the size of list as 130 but alloted 
 the elements randomly to array. The sorting algorithms will sort in Ascending order of array. I have delayed faster algoriths like Merge
-sort , Heap sort to get proper visuals.
-
+sort , Heap sort to get proper visuals. 
+Also as swapping occurs in sorting process , we get to hear some music sounds for the same as added features for the same.
 
 
 
